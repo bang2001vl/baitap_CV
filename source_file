@@ -1,0 +1,9 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{vietnam}
+\usepackage{amsfonts,amssymb,amsmath}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[colorlinks,urlcolor=blue]{hyperref}
+\begin{document}
+\paragraph{"Hello world!"}
+\end{document}
