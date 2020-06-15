@@ -2,12 +2,14 @@
 \usepackage[utf8]{vietnam}
 \usepackage{amsfonts,amssymb,amsmath}
 \usepackage{graphicx}
+\usepackage{tabularx}
 \usepackage{blindtext}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \usepackage[colorlinks,urlcolor=blue]{hyperref}
 \usepackage{float}
-
-%%\setlength\headheight{45pt}
+\usepackage{array}
+\usepackage{makecell}
+\setlength\headheight{15pt}
 
 \begin{document}
 
@@ -60,7 +62,7 @@
     \item Nghiên cứu và xây dựng Career Path để đạt được vị trí Project Manager từ khi ra trường.
     \item Tập luyện xây dựng hợp đồng nhóm và phối hợp làm việc nhóm với các thành viên còn lại.
 \end{itemize}
-\section*{3) Bản phân chia vai trò của các thành viên}
+\section*{3) Bảng phân chia vai trò của các thành viên}
 %% Begin Table
 \hspace{-20px}
 \begin{tabular}{|l|c|c|c|c|r|}\hline
@@ -95,7 +97,106 @@
   \hline
 \end{tabular}
 %% End table
-\section*{4) Bảng đánh giá chéo giữa các thành viên}
+
+\section*{4) Cam kết}
+\paragraph{\indent Sau khi xem xét họp đồng trên, chúng tôi xin cam đoan sẽ tự giác thực hiện các nhiệm vụ được giao một cách cẩn thận, hiệu quả và sẽ cố gắng đết sức để báo cáo lại cho nhóm trước thời hạn được giao.}
+
+\newpage
+\chapter*{\centering{Báo cáo}}
+\section*{1) Tên vị trí việc làm}
+\hspace{25pt}Project Manager (Quản lí sản phẩm)
+\section{Mô tả vị trí việc làm}
+\begin{itemize}
+	\item \textbf{CÔNG TY CỔ PHẦN CÔNG NGHỆ SEN ĐỎ}
+	\begin{itemize}	
+		\item Hướng dẫn, rèn luyện team và tổ chức phương thức phát triển phần mềm theo mô
+		hình Scrum.
+		\item Giao tiếp với các bộ phận liên quan chính với sản phẩm
+		\item Hỗ trợ chủ dự án và nhóm phát triển làm mọi thứ có thể để làm hài lòng khách hàng
+		\item Tạo điều kiện thường xuyên sử dụng Scrum, lập kế hoạch ngắn hạn, nhanh chóng đưa ra bản dùng thử và có kế hoạch chuẩn bị kỹ càng.
+		\item Đảm bảo và tạo điều kiện phối hợp nhóm.
+		\item Có khả năng giải quyết xung đột, thực hiện giao tiếp bằng cách tập trung vào scrum bằng sự cởi mở, trung thực và tôn trọng.
+		\item Duy trì các số liệu có liên quan giúp nhóm xem họ đang làm như thế nào và báo cáo tiến trình của nhóm cho quản lý cấp cao.
+	\end{itemize}
+	\item \textbf{Công ty Cổ phần Halato}
+	\begin{itemize}	
+		\item Phụ trách quản lý việc thực hiện các dự án phần mềm theo định hướng của công ty.
+		\item Quản lý nhóm, giám sát và đảm bảo dự án thực hiện đúng tiến độ.
+		\item Phân tích nghiệp vụ, đề xuất ý tưởng, chuyển hoá các chức năng thủ công, thường sử dụng hằng ngày lên Phần mềm.
+		\item Làm cầu nối giữa 3 bên: Halato - công ty outsourcing - đội ngũ chuyên gia tư vấn.
+	\end{itemize}
+	\item \textbf{Công ty Global Vertical Innovations, LLC}
+	\begin{itemize}
+		\item Xây dựng kế hoạch dự án, đàm phán và ưu tiên lịch trình / dòng thời gian phù hợp với yêu cầu của người dùng doanh nghiệp, các ràng buộc về dòng thời gian, phạm vi và mục tiêu của công ty
+		\item Phối hợp với nhiều người quản lý dự án kinh doanh, nhà phân tích kinh doanh, nhóm kỹ thuật, người dùng và nhà cung cấp doanh nghiệp trong tất cả các giai đoạn của dự án, từ phát triển ban đầu cho đến thực hiện.
+		\item Thực hiện quản lý thay đổi / rủi ro / xung đột trong toàn bộ quá trình thực hiện.
+		\item Giao tiếp chủ động với tất cả các bên liên quan để xác định vấn đề, tạo giải pháp và thực hiện cải tiến hiệu quả.
+		\item Hướng dẫn và đảm bảo phương pháp dự án thống nhất và dễ thực hiện theo dự án áp dụng trên toàn dự án.
+		\item Cải thiện quy trình lập kế hoạch bằng cách học hỏi kinh nghiệm; thiết lập các hội thảo chia sẻ thường xuyên để phát triển kiến thức CNTT / kinh doanh về các phương pháp quản lý Dự án và Theo dõi Thời gian.
+	\end{itemize}
+	\item \textbf{VNG Corporation}
+	\begin{itemize}
+		\item Hướng dẫn/Trao đổi với Product Owner(PO) về thực tiễn sản phẩm.
+		\item Hỗ trợ Trưởng phòng Sản phẩm cung cấp phản hồi cho các PO về cơ sở các lộ trình, quy trình sản xuất hoặc thiết kế sản phẩm.
+		\item Tiến hành nghiên cứu sản phẩm và tổ chức các cuộc thi học thuật theo sự phân công của Head of Product hoặc để bổ sung các phân tích được thực hiện bởi các thành viên trong nhóm.
+		\item Phối hợp với Data-team để tạo các báo cáo và theo dõi dữ liệu cần thiết. - Giúp đỡ các PO sử dụng dữ liệu hiệu quả trong việc đưa ra quyết định sản phẩm.
+		\item Hỗ trợ Head of Product trong quá trình tạo lộ trình; Quản lý những vấn đề thắc mắc đến từ các nhóm khác, hợp nhất và trình bày cho Head of Product để tìm giải pháp.
+		\item Đại diện cho Product Team trong các dự án kết hợp nhiều nhóm để truyền đạt các kế hoạch, lợi ích và tiến trình của sản phẩm một cách phù hợp cho nhiều đối tượng bao gồm các nhóm khác, các kỹ thuật viên và các chủ doanh nghiệp.
+		\item Xây dựng các quy trình làm việc hiệu quả cho Product team.
+		\item Quản lý tiến độ thiết kế sản phẩm và hoàn thành các nhiệm vụ khác do các PO yêu cầu.
+		\item Đảm bảo rằng các PO tuân thủ theo các khung sản phẩm chung được phê duyệt bởi Head of Product.
+		\item Kết nối quá trình cộng tác giữa những PO của các chức năng khác nhau để đạt được sự nhất quán cho đối tượng tiêu dùng và các luồng đầu cuối suôn sẻ.
+		\item Viết báo cáo cho Product team để liên lạc với các bên liên quan khác.
+	\end{itemize}
+	\item \textbf{Công ty TNHH Công Nghệ Logivan Việt Nam}
+	\begin{itemize}
+		\item Phối hợp chặt chẽ với các nhà lãnh đạo doanh nghiệp và khách hàng để xác định các cơ hội và rủi ro của sản phẩm
+		\item Xác định những lĩnh vực trọng tâm, xem xét các báo cáo và tận dụng các framework để kiểm tra / thử nghiệm / xác nhận các giả thuyết có thể nâng cấp giá trị sản phẩm cho người dùng.
+		\item Measure, Test, Iterate, Pivot :: đảm bảo chu kỳ phản hồi sản phẩm nhanh và gọn, giữ cho sản phẩm có nền tảng phát triển tốt và liên tục.
+		\item Đảm bảo cho Product team làm việc đúng mục đích với hiệu suất cao: làm việc với các kỹ sư và Data team về việc xác định lộ trình xây dựng và phân phối sản phẩm
+		\item Đưa ra hướng dẫn cho các thành viên trong nhóm bao gồm các developer, tester và các bên liên quan về trọng tâm và lý do đằng sau mỗi quyết 
+		\item Trả lời và phản hồi lại các yêu cầu, đề xuất và thông báo cho toàn bộ công ty về việc cập nhật sản phẩm.
+		\item Phát triển chiến lược sản phẩm tổng thể. 
+		\item Luôn quan tâm đến khách hàng: Nghiên cứu khách hàng của chúng ta thông qua các phương pháp định lượng và phân tích kết quả từ các góc độ khác nhau để khám phá và đưa ra nhận định phù hợp.
+		\item Quan sát và phân tích dữ liệu khác bên cạnh các sự kiện hoặc giao dịch đã qua của công ty như dữ liệu về đối thủ cạnh tranh, đối tác và chính phủ, chúng có thể giúp báo cáo tổng quan hơn về thị trường. 
+	\end{itemize}
+\end{itemize}
+\section*{2) Tổng hợp}
+\begin{itemize}
+	\item \textbf{Chuyên môn:} 
+	\begin{itemize}
+		\item Thành thạo, có kiến thức tốt trong các phương pháp phát triển phần mềm.
+		\item Có kinh nghiệm cao về quy trình và thủ tục để phát triển phần mềm.
+		\item Có kinh nghiệm ít nhất 2 năm trong vai trò quản lý.
+		\item Có kiến thức tốt về quản lý dự án kỹ thuật, phân tích thông tin và hệ thống phần mềm.
+	\end{itemize}
+	\item \textbf{Kỹ năng:}
+	\begin{itemize}
+		\item Có khả năng huấn luyện, lãnh đạo đội, nhóm tốt
+		\item Có thể giao tiếp tốt với các bên có liên quan tới dự án
+		\item Có khả năng tư duy, cố vấn tốt.
+		\item Thành thạo Scrum
+	\end{itemize}
+	\item \textbf{Thái độ:}
+	\begin{itemize}
+		\item Cởi mở, sẵn sàng hướng dẫn, giúp đỡ người mới.
+		\item Nhiệt tình, hòa đồng khi trao đổi, thương lượng với khách hàng. Có hiểu biết sâu sắc về sản phẩm.
+		\item Trung thực, có tính sáng tạo.
+		\item Có trách nhiệm với công việc.
+		\item Có tính ý chí cầu tiến trong công việc.
+	\end{itemize}
+\end{itemize}
+
+\newpage
+
+% Nhân 
+% bỏ code 
+% vào đây
+
+\newpage
+
+\chapter*{\centering{Đánh giá kết quả}}
+\section*{1) Nhóm tự đánh giá}
 %% Begin Table
 \hspace{35px}
 \begin{tabular}{|l|c|c|r|}\hline
@@ -122,95 +223,11 @@
   \hline
 \end{tabular}
 %% End table
-\section*{5) Cam kết}
-\paragraph{}
-
-\newpage
-
-\chapter{Báo cáo}
-\section{Tên vị trí việc làm}
-\hspace{25pt}Project Manager (Quản lí sản phẩm)
-\section{Mô tả vị trí việc làm}
-\begin{enumerate}
-	\item \textbf{Sendo:}
-	\begin{itemize}	
-		\item Hướng dẫn, rèn luyện team và tổ chức phương thức phát triển phần mềm theo mô
-		hình Scrum.
-		\item Giao tiếp với các bộ phận liên quan chính với sản phẩm
-		\item Hỗ trợ chủ dự án và nhóm phát triển làm mọi thứ có thể để làm hài lòng khách hàng
-		\item Tạo điều kiện thường xuyên sử dụng Scrum, lập kế hoạch ngắn hạn, nhanh chóng đưa ra bản dùng thử và có kế hoạch chuẩn bị kỹ càng.
-		\item Đảm bảo và tạo điều kiện phối hợp nhóm.
-		\item Có khả năng giải quyết xung đột, thực hiện giao tiếp bằng cách tập trung vào scrum bằng sự cởi mở, trung thực và tôn trọng.
-		\item Duy trì các số liệu có liên quan giúp nhóm xem họ đang làm như thế nào và báo cáo tiến trình của nhóm cho quản lý cấp cao.
-	\end{itemize}
-	\item \textbf{Halato:}
-	\begin{itemize}	
-		\item Phụ trách quản lý việc thực hiện các dự án phần mềm theo định hướng của công ty.
-		\item Quản lý nhóm, giám sát và đảm bảo dự án thực hiện đúng tiến độ.
-		\item Phân tích nghiệp vụ, đề xuất ý tưởng, chuyển hoá các chức năng thủ công, thường sử dụng hằng ngày lên Phần mềm.
-		\item Làm cầu nối giữa 3 bên: Halato - công ty outsourcing - đội ngũ chuyên gia tư vấn.
-	\end{itemize}
-	\item \textbf{Global Vertical Innovations:}
-	\begin{itemize}
-		\item Xây dựng kế hoạch dự án, đàm phán và ưu tiên lịch trình / dòng thời gian phù hợp với yêu cầu của người dùng doanh nghiệp, các ràng buộc về dòng thời gian, phạm vi và mục tiêu của công ty
-		\item Phối hợp với nhiều người quản lý dự án kinh doanh, nhà phân tích kinh doanh, nhóm kỹ thuật, người dùng và nhà cung cấp doanh nghiệp trong tất cả các giai đoạn của dự án, từ phát triển ban đầu cho đến thực hiện.
-		\item Thực hiện quản lý thay đổi / rủi ro / xung đột trong toàn bộ quá trình thực hiện.
-		\item Giao tiếp chủ động với tất cả các bên liên quan để xác định vấn đề, tạo giải pháp và thực hiện cải tiến hiệu quả.
-		\item Hướng dẫn và đảm bảo phương pháp dự án thống nhất và dễ thực hiện theo dự án áp dụng trên toàn dự án.
-		\item Cải thiện quy trình lập kế hoạch bằng cách học hỏi kinh nghiệm; thiết lập các hội thảo chia sẻ thường xuyên để phát triển kiến thức CNTT / kinh doanh về các phương pháp quản lý Dự án và Theo dõi Thời gian.
-	\end{itemize}
-	\item \textbf{VNG (Việt Nam):}
-	\begin{itemize}
-		\item Hướng dẫn/Trao đổi với Product Owner(PO) về thực tiễn sản phẩm.
-		\item Hỗ trợ Trưởng phòng Sản phẩm cung cấp phản hồi cho các PO về cơ sở các lộ trình, quy trình sản xuất hoặc thiết kế sản phẩm.
-		\item Tiến hành nghiên cứu sản phẩm và tổ chức các cuộc thi học thuật theo sự phân công của Head of Product hoặc để bổ sung các phân tích được thực hiện bởi các thành viên trong nhóm.
-		\item Phối hợp với Data-team để tạo các báo cáo và theo dõi dữ liệu cần thiết. - Giúp đỡ các PO sử dụng dữ liệu hiệu quả trong việc đưa ra quyết định sản phẩm.
-		\item Hỗ trợ Head of Product trong quá trình tạo lộ trình; Quản lý những vấn đề thắc mắc đến từ các nhóm khác, hợp nhất và trình bày cho Head of Product để tìm giải pháp.
-		\item Đại diện cho Product Team trong các dự án kết hợp nhiều nhóm để truyền đạt các kế hoạch, lợi ích và tiến trình của sản phẩm một cách phù hợp cho nhiều đối tượng bao gồm các nhóm khác, các kỹ thuật viên và các chủ doanh nghiệp.
-		\item Xây dựng các quy trình làm việc hiệu quả cho Product team.
-		\item Quản lý tiến độ thiết kế sản phẩm và hoàn thành các nhiệm vụ khác do các PO yêu cầu.
-		\item Đảm bảo rằng các PO tuân thủ theo các khung sản phẩm chung được phê duyệt bởi Head of Product.
-		\item Kết nối quá trình cộng tác giữa những PO của các chức năng khác nhau để đạt được sự nhất quán cho đối tượng tiêu dùng và các luồng đầu cuối suôn sẻ.
-		\item Viết báo cáo cho Product team để liên lạc với các bên liên quan khác.
-	\end{itemize}
-	\item \textbf{TNHH Công Nghệ Logivan Việt Nam}
-	\begin{itemize}
-		\item Phối hợp chặt chẽ với các nhà lãnh đạo doanh nghiệp và khách hàng để xác định các cơ hội và rủi ro của sản phẩm
-		\item Xác định những lĩnh vực trọng tâm, xem xét các báo cáo và tận dụng các framework để kiểm tra / thử nghiệm / xác nhận các giả thuyết có thể nâng cấp giá trị sản phẩm cho người dùng.
-		\item Measure, Test, Iterate, Pivot :: đảm bảo chu kỳ phản hồi sản phẩm nhanh và gọn, giữ cho sản phẩm có nền tảng phát triển tốt và liên tục.
-		\item Đảm bảo cho Product team làm việc đúng mục đích với hiệu suất cao: làm việc với các kỹ sư và Data team về việc xác định lộ trình xây dựng và phân phối sản phẩm
-		\item Đưa ra hướng dẫn cho các thành viên trong nhóm bao gồm các developer, tester và các bên liên quan về trọng tâm và lý do đằng sau mỗi quyết 
-		\item Trả lời và phản hồi lại các yêu cầu, đề xuất và thông báo cho toàn bộ công ty về việc cập nhật sản phẩm.
-		\item Phát triển chiến lược sản phẩm tổng thể. 
-		\item Luôn quan tâm đến khách hàng: Nghiên cứu khách hàng của chúng ta thông qua các phương pháp định lượng và phân tích kết quả từ các góc độ khác nhau để khám phá và đưa ra nhận định phù hợp.
-		\item Quan sát và phân tích dữ liệu khác bên cạnh các sự kiện hoặc giao dịch đã qua của công ty như dữ liệu về đối thủ cạnh tranh, đối tác và chính phủ, chúng có thể giúp báo cáo tổng quan hơn về thị trường. 
-	\end{itemize}
-\end{enumerate}
-\section{Tổng hợp}
-\begin{enumerate}
-	\item \textbf{Chuyên môn:} 
-	\begin{itemize}
-		\item Thành thạo, có kiến thức tốt trong các phương pháp phát triển phần mềm.
-		\item Có kinh nghiệm cao về quy trình và thủ tục để phát triển phần mềm.
-		\item Có kinh nghiệm ít nhất 2 năm trong vai trò quản lý.
-		\item Có kiến thức tốt về quản lý dự án kỹ thuật, phân tích thông tin và hệ thống phần mềm.
-	\end{itemize}
-	\item \textbf{Kỹ năng:}
-	\begin{itemize}
-		\item Có khả năng huấn luyện, lãnh đạo đội, nhóm tốt
-		\item Có thể giao tiếp tốt với các bên có liên quan tới dự án
-		\item Có khả năng tư duy, cố vấn tốt.
-		\item Thành thạo Scrum
-	\end{itemize}
-	\item \textbf{Thái độ:}
-	\begin{itemize}
-		\item Cởi mở, sẵn sàng hướng dẫn, giúp đỡ người mới.
-		\item Nhiệt tình, hòa đồng khi trao đổi, thương lượng với khách hàng. Có hiểu biết sâu sắc về sản phẩm.
-		\item Trung thực, có tính sáng tạo.
-		\item Có trách nhiệm với công việc.
-		\item Có tính ý chí cầu tiến trong công việc.
-	\end{itemize}
-\end{enumerate}
-
-
+\section*{2) Đánh giá của giảng viên}
+%% Need to improve if you have time
+\paragraph{\indent \indent .......................................................................................................................\newline
+................................................................................................................................\newline
+................................................................................................................................\newline
+................................................................................................................................\newline
+................................................................................................................................\newline}
 \end{document}
