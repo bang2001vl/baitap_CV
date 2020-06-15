@@ -2,9 +2,66 @@
 \usepackage[utf8]{vietnam}
 \usepackage{amsfonts,amssymb,amsmath}
 \usepackage{graphicx}
+\usepackage{blindtext}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \usepackage[colorlinks,urlcolor=blue]{hyperref}
+\usepackage{float}
+
+%%\setlength\headheight{45pt}
+
 \begin{document}
+
+\begin{figure}[h!]
+    \includegraphics[scale=0.9]{title_top_uit_transparent.png}
+    \label{fig:logo_uit}
+\end{figure}
+
+\vspace{200px}
+
+{\centering{\textbf{\huge BÁO CÁO BÀI TẬP NHÓM LẦN I}\par}}
+
+\vspace{180px}
+
+\Large{
+\hspace{40px} {\textbf{Thành viên 1:} Vũ Ngọc Thạch - 19520266\par}
+\hspace{40px} {\textbf{Thành viên 2:} Nguyễn Phạm Duy Bằng - 19520397\par}
+\hspace{40px} {\textbf{Thành viên 3:} Nguyễn Trọng Nhân - 19520801\par}
+\hspace{40px} {\textbf{Lớp:} SS004.K22\par}
+\hspace{40px} {\textbf{Giảng viên: ThS. Nguyễn Văn Toàn}\par}
+\hspace{40px} {\textbf{Năm học: 2019 - 2020}\par}
+}
+\newpage
+\chapter*{\centering{Hợp đồng nhóm}}
+\section*{1) Thành viên của nhóm}
+\begin{itemize}
+    \item Vũ Ngọc Thạch
+    \begin{itemize}
+        \item MSSV: 19520266
+        \item Lớp sinh hoạt: KTPM2019
+        \item Khoa: Công nghệ phần mềm
+    \end{itemize}
+    \item Nguyễn Phạm Duy Bằng
+    \begin{itemize}
+        \item MSSV: 19520397
+        \item Lớp sinh hoạt: KTPM2019
+        \item Khoa: Công nghệ phần mềm
+    \end{itemize}
+    \item Nguyễn Trọng Nhân
+    \begin{itemize}
+        \item MSSV: 19520801
+        \item Lớp sinh hoạt: MMTT2019
+        \item Khoa: Mạng máy tính và truyền thông dữ liệu
+    \end{itemize}
+\end{itemize}
+\section*{2) Mục tiêu đề ra}
+\begin{itemize}
+    \item Tìm hiểu về những công việc mà một Project Manager cần phải làm.
+    \item Tìm hiểu nhu cầu tuyển dụng vị trí Project Manager của các doanh nghiệp lớn hiện nay.
+    \item Nghiên cứu và xây dựng Career Path để đạt được vị trí Project Manager từ khi ra trường.
+    \item Tập luyện xây dựng hợp đồng nhóm và phối hợp làm việc nhóm với các thành viên còn lại.
+\end{itemize}
+\section*{3) Bản phân chia vai trò của các thành viên}
+
 
 \chapter{Báo cáo}
 \section{Tên vị trí việc làm}
