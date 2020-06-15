@@ -61,7 +61,71 @@
     \item Tập luyện xây dựng hợp đồng nhóm và phối hợp làm việc nhóm với các thành viên còn lại.
 \end{itemize}
 \section*{3) Bản phân chia vai trò của các thành viên}
+%% Begin Table
+\hspace{-20px}
+\begin{tabular}{|l|c|c|c|c|r|}\hline
+\diaghead{\theadfont Diag ColumnmnHead II}%
+  {Thành\\viên}{Công\\việc}
+  &\thead{Tìm tài liệu\\về vị trí PM}
+  &\thead{Báo cáo nhu cầu\\doanh nghiệp về PM}
+  & \thead{Xây dựng\\CareerPath của PM}
+  & \thead{Lập bản\\họp đồng nhóm}
+  &\thead{Kiểm tra,\\dò lỗi}\\ 
+  \hline
+  \thead{Vũ Ngọc Thạch}
+  & \thead{X}
+  & \thead{X}
+  & \thead{}
+  & \thead{}
+  & \thead{} \\    
+  \hline
+  \thead{Nguyễn Phạm Duy Bằng}
+  & \thead{X}
+  & \thead{}
+  & \thead{}
+  & \thead{X}
+  & \thead{X} \\    
+  \hline
+  \thead{Nguyễn Trọng Nhân}
+  & \thead{X}
+  & \thead{}
+  & \thead{X}
+  & \thead{}
+  & \thead{} \\    
+  \hline
+\end{tabular}
+%% End table
+\section*{4) Bảng đánh giá chéo giữa các thành viên}
+%% Begin Table
+\hspace{35px}
+\begin{tabular}{|l|c|c|r|}\hline
+\diaghead{\theadfont Diag ColumnmnHead II}%
+  {Người\\đánh giá}{Đối tượng\\đánh giá}
+  &\thead{Vũ Ngọc Thạch}
+  &\thead{Nguyễn Phạm Duy Bằng}
+  &\thead{Nguyễn Trọng Nhân} \\ 
+  \hline
+  \thead{Vũ Ngọc Thạch}
+  & \thead{(Điền vào đây)}
+  & \thead{(Điền vào đây)}
+  & \thead{(Điền vào đây)} \\    
+  \hline
+  \thead{Nguyễn Phạm Duy Bằng}
+  & \thead{(Điền vào đây)}
+  & \thead{(Điền vào đây)}
+  & \thead{(Điền vào đây)} \\    
+  \hline
+  \thead{Nguyễn Trọng Nhân}
+  & \thead{(Điền vào đây)}
+  & \thead{(Điền vào đây)}
+  & \thead{(Điền vào đây)} \\    
+  \hline
+\end{tabular}
+%% End table
+\section*{5) Cam kết}
+\paragraph{}
 
+\newpage
 
 \chapter{Báo cáo}
 \section{Tên vị trí việc làm}
