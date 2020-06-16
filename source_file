@@ -223,19 +223,29 @@
 \newpage
 
 \chapter*{\centering{How to become \\A\\ Deverlopment Manager}}
+\centering
 \begin{tabular}{||c|c|c||} \hline \hline
-    \thead{\textbf{Path}}& \thead{\textbf{Degrees needed}} &\thead{\textbf{Skills}} \\ \hline\hline
-     \thead{Deverloper} &\thead{ Bằng cử nhân Khoa học máy tính} & \thead{Phân tích\\Sáng tạo\\Giao tiếp tốt} \\
+    \thead{ Path}& \thead{Requirement} &\thead{ Skills } \\ \hline\hline
+    
+     \thead{Project Manager} & \thead{Bằng cử nhân kinh tế\\hoặc thạc sĩ kinh tế} & \thead{Lãnh đạo\\Chịu được áp lực}\\ 
      \hline \hline
-     \thead{Consultant} &  \thead{Chứng nhận chuyên gia tư vấn quản lý\\Bằng cử nhân Khoa học máy tính} &\thead{Xử lý tình huống\\Quản lý thời gian}
-     \\ \hline \hline
-     \thead{Project Manager} & \thead{Bằng cử nhân kinh tế} & \thead{Lãnh đạo\\Chịu được áp lực}\\ 
+     
+      \thead{Consultant} &  \thead{Chứng nhận chuyên gia tư vấn quản lý} &\thead{Xử lý tình huống\\Quản lý thời gian}\\ \hline \hline
+    
+    
+     \thead{Senior Deverloper} &\thead{ Bằng cử nhân Khoa học máy tính\\thông thạo qui trình gia công phần mềm} & \thead{Phân tích tình huống\\Xử lí  dược các lỗi quan trọng\\Giao tiếp tốt} \\
      \hline \hline
-     \thead{Deverlopment Manager} &\thead{Bằng cử nhân quản trị kinh doanh}&\thead{ Kỹ năng kinh doanh\\Quản lý nhân lực} 
-      \\ \hline \hline
-     \thead{Senior Deverlopment Manager}&\thead{ 
-Bằng Thạc sĩ quản trị kinh doanh\\Bằng Thạc sĩ hệ thống thông tin}&\thead{Lãnh đạo\\Tổ chức tố} \\ \hline\hline
+     
+     \thead{Junior Deverloper}& \thead{có khả năng hoàn thành công việc\\ một cách độc lập}&\thead{hiểu được các giải thuật nâng \\cao, có khả năng tối ưu code tốt}\\ \hline \hline
+     
+    \thead{Fresher Deverloper} & \thead{Bằng kỹ sư công nghệ phần mềm} & \thead{hiểu biết cơ bản về\\ ngôn ngữ và công cụ lập trình}\\ \hline \hline
+
 \end{tabular}
+
+\thead{}\\
+\thead{}
+
+\includegraphics[scale=2.5]{career path.jpg}\\ \text{\centering 1.Career path}
 
 \newpage
 
